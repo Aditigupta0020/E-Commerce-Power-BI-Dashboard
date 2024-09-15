@@ -44,5 +44,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any questions or feedback, feel free to reach out at:<br>
-Github :https://github.com/Aditigupta0020/   <br>
-LinkedIn :https://www.linkedin.com/in/aditigupta20/
+Github : https://github.com/Aditigupta0020/   <br>
+LinkedIn : https://www.linkedin.com/in/aditigupta20/
